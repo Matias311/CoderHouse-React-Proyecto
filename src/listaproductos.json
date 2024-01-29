@@ -1,0 +1,476 @@
+[
+  {
+    "id": 1,
+    "nombre": "100 Contemporary Artist (25 Years)",
+    "Autor": "HOLZWARTH, HANZ WERNER",
+    "Precio": 53.99,
+    "Descuento": 15,
+    "Categoria": "Arte y Arquitectura",
+    "Novedad": false,
+    "Promocion": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9783836514910_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 20,
+    "Reseña": "100 Artists Who Epitomize the Contemporary Art Scene This special two-volume edition features 100 of the most exciting artists from TASCHEN`s seminal Art at the Turn of the Millennium and the renowned Art Now! series - gathered in a comprehensive survey of contemporary art at the start of the 21st century. The selection includes a wide variety of works by pioneering artists like Jean-Michel Basquiat, Marlene Dumas, Damien Hirst, Mike Kelley, Jeff Koons, Albert Oehlen, Richard Prince, Charles Ray, Cindy Sherman, and Christopher Wool - alongside a younger generation including Glenn Brown, Natalie Djurberg, Tom Friedman, Mark Grotjahn and Terence Koh. Featured artists include: Franz Ackermann, Ai Wei Wei, Doug Aitken, Darren Almond, Francis Alys, Banksy, Matthew Barney, Jean-Michel Basquiat, Cosima von Bonin, Monica Bonvicini, Cecily Brown, Glenn Brown, André Butzer, Cai Guo-Qiang, Maurizio Cattelan, George Condo, John Currin, Thomas Demand, Rineke Dijkstra, Nathalie Djurberg, Peter Doig, Marlene Dumas, Olafur Eliasson, Elmgreen & Dragset, Tracey Emin, Urs Fischer, Peter Fischli / David Weiss, Günther Förg, Walton Ford, Tom Friedman, Ellen Gallagher, Robert Gober, Nan Goldin, Felix Gonzalez-Torres, Douglas Gordon, Mark Grotjahn, Subodh Gupta, Andreas Gursky, Keith Haring, Mona Hatoum, Thomas Hirschhorn, Damien Hirst, Gary Hume, Anish Kapoor, Mike Kelley, Martin Kippenberger, Terence Koh, Jeff Koons, Barbara Kruger, Won Ju Lim, Sarah Lucas, Vera Lutter, Marepe, Paul McCarthy, Jonathan Meese, Beatriz Milhazes, Mariko Mori, Sarah Morris, Takashi Murakami, Wangechi Mutu, Yoshitomo Nara, Shirin Neshat, Ernesto Neto, Tim Noble & Sue Webster, Albert Oehlen, Chris Ofili, Gabriel Orozco, Tony Oursler, Jorge Pardo, Raymond Pettibon, Elizabeth Peyton, Richard Phillips, Richard Prince, Neo Rauch, Charles Ray, Tobias Rehberger, Jason Rhoades, Daniel Richter, Pipilotti Rist, Raqib Shaw, Cindy Sherman, Santiago Sierra, Rudolf Stingel, Thomas Struth, Philip Taaffe, Mickalene Thomas, Wolfgang Tillmans, Rirkrit Tiravanija, Rosemarie Trockel, Luc Tuymans, Piotr Ukla?ski, Francesco Vezzoli, Kara Walker, Jeff Wall, Rebecca Warren, Franz West, Rachel Whiteread, Kehinde Wiley, Christopher Wool and Erwin Wurm.",
+    "Especificaciones": {
+      "Categoria": "Bellas Artes",
+      "SubCategoria": "Arte Contemporaneo",
+      "idioma": "Español",
+      "Formato": "Tapa Dura",
+      "Paginas": 696
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Actas Del Cuarto Congreso Nacional De Historia De La Construcción",
+    "Autor": "HUERTA FERNANDEZ, SANTIAGO",
+    "Precio": 41.217,
+    "Descuento": 15,
+    "Categoria": "Arte y Arquitectura",
+    "Novedad": false,
+    "Promocion": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788497281461_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 10,
+    "Reseña": "El presente volumen recoge las comunicaciones aprobadas por el Comité Científico del Congreso. La diversidad de temas y de enfoques es un reflejo de la apertura que ha presidido las reuniones.",
+    "Especificaciones": {
+      "Categoria": "Arquitectura, Entorno Y Paisaje",
+      "SubCategoria": "Teoria De La Arquitectura",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 1160
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Alzheimer: La Vida De Un Medico Y La Historia De Una Enfermedad",
+    "Autor": "MAURER, K.",
+    "Precio": 20.792,
+    "Descuento": 0,
+    "Categoria": "Ciencias",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788479787585_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 30,
+    "Reseña": "Además de constituir la biografía más completa y mejor documentada de Alois Alzheimer (1864-1915), esta obra reconstruye la historia de la enfermedad que lleva su nombre en sus inicios, desde lo que podríamos considerar su prehistoriaentre 1901 y 1906 (fecha de la primera descripción histórica), en su periodode consolidación desde 1906 hasta 1910 y las primeras descripciones de los casos anatomoclínicos hasta 1915 hasta que fallece Alzheimer. La obra contemplael desarrollo histórico de la enfermedad desde la muerte de Alzheimer hasta laactualidad. El interés de la obra no reside exclusivamente en la biograría deAlzheimer y la historia de la enfermedad que lleva su nombre. Por sus páginasdesfilan figuras claves de la Neuropsiquiatría, en particular y la medicina en general.",
+    "Especificaciones": {
+      "Categoria": "Ciencias Medicas",
+      "SubCategoria": "Neurologia",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 368
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Netter. Atlas De Anatomia Humana Septima Edicion",
+    "Autor": "NETTER, FRANK H.",
+    "Precio": 162.899,
+    "Descuento": 0,
+    "Categoria": "Ciencias",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788491134688_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 2,
+    "Reseña": "Nueva edición del atlas de anatomía humana concebido desde una perspectiva clínica gracias a las incomparables ilustraciones Netter. Nueva sección que contiene ilustraciones de cuerpo entero que muestran la anatomía de superficie, los vasos sanguíneos, los nervios y los vasos linfáticos. Proporcionan, por primera vez, una imagen completa del cuerpo humano. Al final de cada sección se incluyen tablas que destacan las estructuras más habitualmente lesionadas, así como otras de relevancia clínica. Estas tablas proporcionan a los estudiantes resúmenes de consulta rápida, organizados por sistemas corporales, e incluyen referencias a las láminas donde pueden observarse mejor las estructuras.La nueva edición ofrece acceso a 100 láminas adicionales, un banco de 300 preguntas de autoevaluación y guías de estudio para las principales estructuras (todo el contenido está en inglés).",
+    "Especificaciones": {
+      "Categoria": "Ciencias Medicas",
+      "SubCategoria": "Anatomia",
+      "idioma": "Español",
+      "Paginas": 672
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Principles Of Economics",
+    "Autor": "CASE, Karl E",
+    "Precio": 69.94,
+    "Descuento": 0,
+    "Categoria": "Economia y Administracion",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/81UPJjLHp8L._SY522_.jpg",
+    "stock": 1,
+    "Reseña": "These two highly-respected authors have revised this best-selling book to include more current, modern subject matter and events while maintaining those features that have contributed to its great success. It continues to use stories, graphs, and equations and a unified, logical organization to make economic concepts easy-to-understand and relevant to all readers. Users of this book see the connection between growth, trade, comparative advantage, and the production possibilities frontier. When readers understand how a simple competit ...",
+    "Especificaciones": {
+      "Categoria": "Economia",
+      "SubCategoria": "Economia",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 832
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "¿Lider O Killer?",
+    "Autor": "CAMARA MENA, RAFAEL",
+    "Precio": 19.542,
+    "Descuento": 20,
+    "Categoria": "Economia y Administracion",
+    "Novedad": false,
+    "Promocion": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788415781653_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 30,
+    "Reseña": "Novela dialogada empresarial con 4 personajes diversos que coinciden en un curso executive de una Escuela de Negocios, los cuales a través de sus historias y comportamientos, y de forma amena y divertida, te matizan el camino que discurre entre las prácticas de un killer y las de un auténtico líder. Ni todos los considerados líderes son bienhechores para su entorno, ni todos tenemos el mismo concepto de éxito y liderazgo. ¿Qué clase de líder querríamos ser? ¿Qué tipo de éxito buscamos cada uno y en qué actividad social o laboral queremos encontrarlo? Consecuentemente, ¿cómo entendemos cada uno de nosotros el liderazgo hacia el éxito en nuestro concepto y en nuestro entorno? Y sobre todo, ¿cómo pasar de la teoría a la práctica? Mediante 2 herramientas sencillas, practicando un entretenido ejercicio, tú mismo descubrirás tu estilo de liderazgo, te autocalificarás y finalmente podrás corroborarlo con una autoevaluación profesional online.",
+    "Especificaciones": {
+      "Categoria": "Empresa",
+      "SubCategoria": "Management Y Liderazgo",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 166
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Terrarios",
+    "Autor": "BAUER, ANNA",
+    "Precio": 28.8,
+    "Descuento": 0,
+    "Categoria": "Entretencion y Manualidades",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788417492434_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 4,
+    "Reseña": "Instalaciones vegetales autosuficientes: proyectos paso a paso para construir terrarios y recrear paisajes de ensueño: junglas, desiertos, bosques exuberantes… con información detallada para crear bonitas y originales composiciones. * Explicaciones para comprender la magia de un mundo autosuficiente, con un listado de todas las plantas que pueden adaptarse a un terrario. * Incluye gamas de materias vegetales y minerales que enriquecerán su composición. Un terrario está compuesto por un conjunto de plantas, minerales y microorganismos que se reúnen dentro de un recipiente de cristal para recrear un paisaje. El recipiente que contiene dicho paisaje se convierte en el escenario donde se lleva a cabo un proceso biológico: todos los elementos interactúan y se desarrollan, como actores de un verdadero ecosistema. Esta completa guía completa detalla cada parte de la creación de jardines interiores en miniatura, hermosos y originales. Fáciles de hacer, los proyectos se inspiran en ecosistemas de todo el mundo, entre ellos, el parque de la Amazonia, la Selva Negra de Alemania, un delicado jardín de bonsáis de Kyushu del sur de Japón, el Popocatépetl mexicano y una recreación con olivos y tomillo procedente de las orillas del mar de Galilea, en Israel.",
+    "Especificaciones": {
+      "Categoria": "Hogar, Jardin y Manualidades",
+      "SubCategoria": "Jardineria",
+      "idioma": "Español",
+      "Paginas": 220
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Aperturas De Ajedrez",
+    "Autor": "Miguel Illescas",
+    "Precio": 13.9,
+    "Descuento": 0,
+    "Categoria": "Entretencion y Manualidades",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788490569771_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 50,
+    "Reseña": "¿Quieres desplegar las piezas, dominar el centro o enrocar rápidamente? Este curso de aperturas te mostrará de forma amena, clara y práctica cómo plantear la partida como un campeón.",
+    "Especificaciones": {
+      "Categoria": "Deporte",
+      "SubCategoria": "Ajedrez",
+      "Formato": "Tapa blanda",
+      "Paginas": 240
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "La Vuelta Al Mundo En 80 Bebidas",
+    "Autor": "GAUBERT, A.",
+    "Precio": 41.0,
+    "Descuento": 0,
+    "Categoria": "Gastronomia, Vinos y Licores",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788416407910_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 3,
+    "Reseña": "Libro de viajes para degustar las bebidas alcohólicas del mundo. Whisky japonés, cerveza belga, vino argentino, ron del Caribe... Los autores de este libro le acompañarán por los cinco continentes en un auténtico tour de iniciación a lo largo del cual le desvelarán los secretos de las bebidas alcohólicas más populares del mundo. La vuelta al mundo en 80 bebidas le permitirá conocer el origen de cada una de ellas, así como la increíble creatividad del ser humano que, de Benín a Corea, o de Bolivia a Noruega, ha logrado crear elixires únicos vinculados a las características de cada lugar y que se han convertido en símbolo nacional. 80 bebidas, 80 etapas y 80 historias.",
+    "Especificaciones": {
+      "Categoria": "Bebidas",
+      "SubCategoria": "Cocteles",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 200
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Los Sabores De Mi Familia",
+    "Autor": "DEMARIA, VIRGINIA",
+    "Precio": 31.5,
+    "Descuento": 0,
+    "Categoria": "Gastronomia, Vinos y Licores",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789563607345_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 1,
+    "Reseña": "Los niños de hoy claramente no son como los de antes… sus paladares son cada vez más exigentes y arriesgados. Por esto –y por la gran cantidad de nuevos sabores e ingredientes que han enriquecido nuestra cultura gastronómica– es que la alimentación cotidiana se convierte en un reto que muchas veces no sabemos cómo abordar. Comida variada, rica y nutritiva, colaciones, panoramas con los amigos, desayunos en familia, primeros colados para el nuevo integrante de la familia; todos estos desafíos son los que quiero ayudarlos a sortear con Los sabores de mi familia. En este libro encontrarán preparaciones muy sencillas para cocinar en compañía de los niños, además de muchas recetas que podrán preparar ellos solos. Porque la cocina no se trata solo de alimentarse, sino de pasarlo bien y compartir en familia. Los invito a disfrutar de estos deliciosos sabores y a embarcarse en la maravillosa aventura de cocinar con niños.",
+    "Especificaciones": {
+      "Categoria": "Comidas",
+      "SubCategoria": "Cocina Chilena",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 188
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "La Teoria de Kim",
+    "Autor": "SANDOVAL, JAY",
+    "Precio": 20.9,
+    "Descuento": 0,
+    "Categoria": "Infantil y Juvenil",
+    "Novedad": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789566145639_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 13,
+    "Reseña": "La noche del primero de agosto en que Taylor Kim se atrevió a investigar la extraña construcción a orillas del lago, coincidió con el día de 2019, cuando Han Dakho desapareció al caer en las profundidades de sus aguas. No existía forma de que estos dos chicos se encontraran: la fecha estaba mal, una diferencia de treinta años separaba ambos sucesos. Si ese a quien Taylor salvó de ahogarse no mentía, entonces se trataría del descubrimiento del siglo… Si no, Taylor estaría frente a un loco más con una historia imposible. El pasado es gay y el futuro gluten free. Bienvenidos al condado Mariposa.",
+    "Especificaciones": {
+      "Categoria": "Literatura Juvenil",
+      "SubCategoria": "Narrativa Juvenil",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 512
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Aqui Estamos. Notas para vivir en el planeta tierra",
+    "Autor": "JEFFERS, OLIVER",
+    "Precio": 17.9,
+    "Descuento": 0,
+    "Categoria": "Infantil y Juvenil",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9786071657114_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 2,
+    "Reseña": "Una guía para hacer un buen uso de nuestro gran hogar: La Tierra. Nuestro planeta que debemos cuidar y todo lo que hay en él, ya sean nuestros animales o inmensos océanos. Un libro que puede ayudar a los más pequeños a responder preguntas pero que también invita a respetar a las personas que lo habitan y a utilizar bien el tiempo que tenemos aquí.",
+    "Especificaciones": {
+      "Categoria": "Libros infantiles",
+      "SubCategoria": "Libros ilustrados",
+      "idioma": "Español",
+      "Formato": "Tapa Dura",
+      "Paginas": 48
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Hijos Del Mercado. La Maternidad Subrogada En Un Estado Social",
+    "Autor": "BALAGUER, CALLEJON, MARIA LUISA",
+    "Precio": 35.99,
+    "Descuento": 0,
+    "Categoria": "Literatura",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788437637334_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 5,
+    "Reseña": "La autora de esta obra desarrolla una reflexión acerca del contrato de maternidad subrogada o vientres de alquiler —entre otras denominaciones— que tiene por objeto laEncuadernación: Rústica Colección: Feminismos La autora de esta obra desarrolla una reflexión acerca del contrato de maternidad subrogada o vientres de alquiler —entre otras denominaciones— que tiene por objeto la obtención de un hijo o hija a través de la gestación por parte de una mujer que queda obligada a entregar el objeto-sujeto fruto de su maternidad. El libro se estructura en torno a dos conceptos fundamentales: el primero se refiere a la posibilidad de afectación de la dignidad y el libre desarrollo de la personalidad en relación con el contrato de un vientre de alquiler para la materialización de un deseo de maternidad o paternidad de imposible satisfacción por parte de las personas que pretenden llevar a cabo ese contrato, y el segundo apunta a la raíz misma de la cuestión de por qué surge en nuestra civilización un mercado de estas características, cuáles son los efectos de este liberalismo contractual, y qué valores y principios potencia y defiende.",
+    "Especificaciones": {
+      "Categoria": "Literatura Contemporanea",
+      "SubCategoria": "Ensayo",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 224
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "El Gigante Enterrado",
+    "Autor": "ISHIGURO, KAZUO",
+    "Precio": 16.0,
+    "Descuento": 0,
+    "Categoria": "Literatura",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788433960559_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 2,
+    "Reseña": "Inglaterra en la Edad Media. Del paso de los romanos por la isla sólo quedan ruinas, y Arturo y Merlín son leyendas del pasado. Entre la bruma todavía habitan ogros, y británicos y sajones conviven en unas tierras yermas, distribuidos en pequeñas aldeas. En una de ellas vive una pareja de ancianos –Axl y Beatrice– que decide partir en busca de su hijo. Este se marchó hace mucho tiempo, aunque las circunstancias concretas de esa partida no las recuerdan, porque, como el resto de habitantes de la región, han perdido buena parte de la memoria debido a lo que llaman «la niebla». En su periplo se encontrarán con un guerrero sajón llamado Wistan; un joven que lleva una herida que lo estigmatiza; y un anciano Sir Gawain, el último caballero de Arturo vivo, que vaga con su caballo por esas tierras con el encargo, según cuenta, de acabar con un dragón hembra que habita en las montañas. Juntos se enfrentarán a los peligros del viaje, a los soldados de Lord Brennus, a unos monjes que practican extraños ritos de expiación y a presencias mucho menos terrenales. Pero cada uno de esos viajeros lleva consigo secretos, culpas pendientes de redención y, en algún caso, una misión atroz que cumplir.Kazuo Ishiguro ha construido una narración bellísima, que indaga en la memoria y en el olvido acaso necesario, en los fantasmas del pasado, en el odio larvado, la sangre y la traición con los que se forjan las patrias y a veces la paz. Pero habla también del amor perdurable, de la vejez y de la muerte. Una novela ambientada en un pasado remoto y legendario que vuelve sobre los grandes y eternos temas que inquietan a los seres humanos.Biografía del autor Kazuo Ishiguro nació en Nagasaki en 1954, pero se trasladó a Inglaterra en 1960. Es autor de siete novelas –Pálida luz en las colinas (Premio Winifred Holtby), Un artista del mundoflotante(Premio Whitbread), Los restos del día (Premio Booker), Los inconsolables (Premio Cheltenham), Cuando fuimos huérfanos, Nunca me abandones (Premio Novela Europea Casino de Santiago) y El gigante enterrado– y un libro de relatos –Nocturnos–, obras extraordinarias que Anagrama ha publicado en castellano. En 2017 fue galardonado con el Premio Nobel de Literatura.",
+    "Especificaciones": {
+      "Categoria": "Literatura Contemporanea",
+      "SubCategoria": "Literatura Oriental",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 368
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "Iron Man. Director De Shield 2 Embrujado",
+    "Autor": "KNAUF",
+    "Precio": 37.99,
+    "Descuento": 0,
+    "Categoria": "Mundo Comic",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788490241189_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 100,
+    "Reseña": "El regreso del peor enemigo de Iron Man: El Mandarín. Traicionado por los suyos y encerrado en sus propias obsesiones, el Hombre de Hierro descubre que sus únicos aliados son los demonios de su pasado, y que sólo puede confiar en tecnología obsoleta para salir victorioso de su mayor reto como director de SHIELD. Este volumen incluye la historia más ambiciosa de Daniel y Charles Knauf como responsables de Iron Man, además de los episodios relacionados con World War Hulk.",
+    "Especificaciones": {
+      "Categoria": "Comics y Manga",
+      "SubCategoria": "Comics",
+      "idioma": "Español",
+      "Paginas": 288
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Daredevil 4. Actuando para La Camara",
+    "Autor": "GALE WINSLADE",
+    "Precio": 16.992,
+    "Descuento": 15,
+    "Categoria": "Mundo Comic",
+    "Novedad": false,
+    "Promocion": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9788490946046_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg&dpr=2%202x",
+    "stock": 3,
+    "Reseña": "Un hombre rico demanda a Daredevil por daños a la propiedad... y lo hace con Matt Murdock como abogado. Espera... ¿cómo es posible tal cosa? Y además, Stan Lee y Gene Colan celebran la amistad de Daredevil con Spiderman.",
+    "Especificaciones": {
+      "Categoria": "Comics y Manga",
+      "SubCategoria": "Comics",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 160
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "SI A CASI TODO",
+    "Autor": "FERRAN CASES",
+    "Precio": 19.9,
+    "Descuento": 0,
+    "Categoria": "Autoayuda",
+    "Novedad": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789566122579_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 2,
+    "Reseña": "¿Otro libro de crecimiento personal? Mientras que el mundo está inundado de mantras y fórmulas mágicas que prometen la felicidad eterna, Sí a (casi) todo rompe moldes y te invita a dar un giro inesperado. Es crecimiento personal, pero también es... ¿una mezcla entre la sabiduría de un gurú y el humor de tu sitcom americana favorita? Olvídate de las recetas trilladas y prepárate para e siatodismo: una filosofía desenfadada, audaz y, sobre todo, genuina, que te desafía a decir «sí» y a sumergirte en el caótico, divertido y a veces absurdo baile de la vida. Porque, a veces, el auténtico crecimiento no está en empezar a hacer lo que te digan, sino en atreverte a potenciar aquello que ya estás haciendo. El autor que ha ayudado a miles de personas a superar la ansiedad nos sorprende con un nuevo enfoque sobre los hábitos que nos ayudará a llevarlos a otro nivel. Ferran Cases se ha convertido en todo un referente en la divulgación sobre salud mental. ",
+    "Especificaciones": {
+      "Categoria": "Autoayuda",
+      "SubCategoria": "Autoayuda",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 205
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Juan Radrigan. Teatro Reunido Vol.1",
+    "Autor": "JUAN RADRIGAN",
+    "Precio": 26.0,
+    "Descuento": 0,
+    "Categoria": "Arte y Arquitectura",
+    "Novedad": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789560017925_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 300,
+    "Reseña": "Este volumen da inicio a la compilación de lo que fue su extensa y significativa dramaturgia. Juan Radrigán. Teatro reunido, obra que se proyecta en tres volúmenes, abre aquí con las primeras obras en las que se revelan los cimientos de lo que será su importante legado literario. Radrigán, con maestría única, no solo narra, sino que también describe la realidad, pintando cuadros de tristeza, dolor, fuerza y dignidad que resuenan en el alma del lector. A lo largo de estas obras, el dramaturgo no solo se limita a desafiar, sino que ofrece una mirada íntima a la sociedad chilena, capturando sus frustraciones y desafíos. Desde sus inicios, la escritura de Radrigán ha ocupado un lugar eminente e indiscutible en el panorama literario, destacando la urgente necesidad de vivir con principios morales y asumir la responsabilidad social e individual. El volumen da inicio a un viaje a través del tiempo, permitiendo explorar la evolución del talento de Radrigán y apreciar cómo su perspectiva única ha perdurado década tras década, transformándose en un clásico indiscutible. Adentrarse en estas páginas es descubrir un teatro que no solo entretiene, sino que remueve y conmueve, así como también despierta conciencias, ofreciendo una reflexión profunda sobre la condición humana y la sociedad que nos rodea. ",
+    "Especificaciones": {
+      "Categoria": "Artes Escenicas",
+      "SubCategoria": "Teatro",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 420
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Lo que disperso la Aurora",
+    "Autor": "SAFO",
+    "Precio": 13.0,
+    "Descuento": 0,
+    "Categoria": "Arte y Arquitectura",
+    "Novedad": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789560017871_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 4,
+    "Reseña": "La poesía de Safo fue más allá de las barreras de su isla natal, convirtiéndose en referencia de la literatura griega arcaica y ocupando un lugar relevante en el desarrollo de la lírica de la época. En su escritura, Safo no nos habla desde la racionalidad o de los procesos internos de la conciencia, sino que su poesía hace aflorar su delicada y profunda percepción sensitiva del mundo, de las personas y de las cosas que le rodean. A través de ese lenguaje sensual, nos habla de la soledad, el deseo y la pasión, de lo que mueve su emoción, y que son algunas de las cosas que habitan el universo interior del ser humano. …y también mientras ríes deseosa; eso hizo saltar mi corazón dentro del pecho; porque si te miro a ti un instante, no me es posible hablar mi lengua se hace trizas en silencio, un fuego sutil me corre por debajo de la piel, con los ojos nada veo, me zumban los oídos… «Safo, sin aspavientos, con una simpleza que parece esconder su profundidad, nos conduce, la primera en Occidente, a reunirnos con nuestros propios cuerpos y nuestras propias sensaciones; nos confirma y reafirma en ese gran descubrimiento del pensamiento griego que es el individuo activo e independiente, el que desde su unicidad busca relacionarse de igual a igual con los otros que habitan su propia ciudad»",
+    "Especificaciones": {
+      "Categoria": "Poesia",
+      "SubCategoria": "Poetica Europea",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 140
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "UN ALMA DE CENIZA Y SANGRE",
+    "Autor": "ARMENTROUT, JENNIFER",
+    "Precio": 28.9,
+    "Descuento": 0,
+    "Categoria": "Infantil y Juvenil",
+    "Novedad": true,
+    "MasVendido": false,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789566196631_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 10,
+    "Reseña": "Solo los recuerdos de Cas pueden salvarla... UN GRAN PODER PRIMIGENIO HA SURGIDO. La Reina de Carne y Fuego se ha convertido en la Primigenia de Sangre y Hueso, la verdadera Primigenia de la Vida y la Muerte. Y la batalla que Casteel, Poppy y sus aliados han estado librando solo acaba de empezar. Los dioses se están despertando por todo Iliseeum y en el mundo mortal, preparándose para la guerra que se avecina. PERO CUANDO POPPY CAE EN UN PROFUNDO SUEÑO... Cas debe enfrentarse a una posibilidad muy real: las extremas e inesperadas consecuencias de aquello en lo que Poppy se está convirtiendo podrían arrebatársela. Sin embargo, Cas recibe un consejo al que planea aferrarse mientras espera a que los preciosos ojos de su amada vuelvan a abrirse: «Habla con ella». Así que eso hace. Le recuerda a Poppy cómo empezó su viaje juntos y, en el proceso, revela cosas sobre sí mismo que solo Kieran conoce. No obstante, es imposible saber qué encontrará Poppy al despertar y en qué medida habrán cambiado el mundo y Cas cuando lo haga. La autora best seller del New York Times Jennifer L. Armentrout repasa la épica historia de amor entre Poppy y Casteel en este nuevo volumen de la saga De sangre y cenizas. Pero, en esta ocasión, es Hawke quien tiene la oportunidad de contar la historia.",
+    "Especificaciones": {
+      "Categoria": "Literatura Juvenil",
+      "SubCategoria": "Narrativa Juvenil",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 768
+    }
+  },
+  {
+    "id": 21,
+    "nombre": "Alas de Sangre",
+    "Autor": "YARROS, REBECCA",
+    "Precio": 18.32,
+    "Descuento": 20,
+    "Categoria": "Infantil y Juvenil",
+    "Novedad": false,
+    "Promocion": true,
+    "MasVendido": true,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789564084268_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 20,
+    "Reseña": "Un dragón sin su jinete es una tragedia. Un jinete sin su dragón está muerto. Artículo uno, sección uno del Código de jinetes de dragones Violet Sorrengail creía que a sus veinte años se uniría al Cuadrante de los Escribas para vivir una vida tranquila, estudiando sus amados libros y las historias antiguas que tanto le fascinan. Sin embargo, por órdenes de su madre, la temida comandante general, Violet debe unirse a los miles de candidatos que luchan por formar parte de la élite de Navarre: los jinetes de dragones. Cuando eres más pequeña y frágil que los demás tu vida corre peligro, porque los dragones no se vinculan con humanos débiles; de hecho, los incineran. Sumado a esto, con más jinetes que dragones disponibles, buena parte de los candidatos mataría a Violet con tal de mejorar sus probabilidades de éxito; otros, como el despiadado Xaden Riorson, el líder de ala más poderoso del Cuadrante, la asesinarían simplemente por ser la hija de la comandante general. Para sobrevivir, necesitará aprovechar al máximo todo su ingenio. Día tras día, la guerra que se libra al exterior del Colegio se torna más letal, las defensas del reino se debilitan y los muertos aumentan. Por si fuera poco, Violet sospecha que los líderes de Navarre esconden un terrible secreto. Amistad, rivalidad y pasión... en el Colegio de Guerra de Basgiath todos tienen una agenda oculta y saben que una vez adentro solo hay dos posibilidades: graduarse o morir.",
+    "Especificaciones": {
+      "Categoria": "Literatura Juvenil",
+      "SubCategoria": "Narrativa Juvenil",
+      "Formato": "Tapa blanda",
+      "idioma": "Español",
+      "Paginas": 528
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "Habitos Atomicos",
+    "Autor": "CLEAR, JAMES",
+    "Precio": 19.12,
+    "Descuento": 20,
+    "Categoria": "Autoayuda",
+    "Novedad": false,
+    "Promocion": true,
+    "MasVendido": true,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789569987632_1_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 100,
+    "Reseña": "Hábitos atómicos parte de una simple pero poderosa pregunta: ¿Cómo podemos vivir mejor? Sabemos que unos buenos hábitos nos permiten mejorar significativamente nuestra vida, pero con frecuencia nos desviamos del camino: dejamos de hacer ejercicio, comemos mal, dormimos poco, despilfarramos. ¿Por qué es tan fácil caer en los malos hábitos y tan complicado seguir los buenos? James Clear nos brinda fantásticas ideas basadas en investigaciones científicas, que le permiten revelarnos cómo podemos transformar pequeños hábitos cotidianos para cambiar nuestra vida y mejorarla. Esta guía pone al descubierto las fuerzas ocultas que moldean nuestro comportamiento ?desde nuestra mentalidad, pasando por el ambiente y hasta la genética? y nos demuestra cómo aplicar cada cambio a nuestra vida y a nuestro trabajo.",
+    "Especificaciones": {
+      "Categoria": "Autoayuda",
+      "SubCategoria": "Autoayuda",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 328
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "El Psicoanalista en la mira",
+    "Autor": "KATZENBACH, JOHN",
+    "Precio": 20.0,
+    "Descuento": 0,
+    "Categoria": "Novela",
+    "Novedad": false,
+    "Promocion": false,
+    "MasVendido": true,
+    "img": "https://www.antartica.cl/media/catalog/product/9/7/9789566205852_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&dpr=2%202x",
+    "stock": 5,
+    "Reseña": "El doctor Ricky Starks vive en Miami después de haber sufrido la terrible persecución y el acoso de una familia de psicópatas liderada por Rumpelstiltskin. Cuando parecía que por fin iba a poder vivir tranquilo, todo vuelve a empezar. Al regresar a su domicilio tras asistir a un funeral, el psicoanalista se encuentra con la puerta entreabierta. En la pantalla de su ordenador aparecen los nombres de doce de sus pacientes y un mensaje que dice que uno de ellos se va a suicidar en menos de 14 días. De nuevo el psicoanalista se encuentra en una emboscada que lleva la firma de la familia de psicópatas. Una carrera contra la muerte en la que irá desvelando las trampas y acertijos que Merlín y Virgil le tienden.",
+    "Especificaciones": {
+      "Categoria": "Novela",
+      "SubCategoria": "De Suspenso",
+      "idioma": "Español",
+      "Formato": "Tapa blanda",
+      "Paginas": 528
+    }
+  }
+]

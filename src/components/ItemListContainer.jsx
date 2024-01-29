@@ -1,8 +1,29 @@
-const ItemListContainer = ({ greeting }) => {
+import { useEffect, useState } from "react";
+import arrproductos from "../listaproductos.json";
+import ItemList from "./ItemList";
+import { useParams } from "react-router-dom";
+
+const ItemListContainer = () => {
+  const [productos, setproductos] = useState([]);
+  const { id } = useParams();
+  useEffect(() => {
+    const promesa = new Promise((resolve) => {
+      setTimeout(() => {
+        resolve(
+          id
+            ? arrproductos.filter((item) => item.Categoria === id)
+            : arrproductos
+        );
+      }, 2000);
+    });
+    promesa.then((data) => {
+      setproductos(data);
+    });
+  }, [id]);
   return (
-    <main className="flex flex-col justify-items-center items-center mt-10 p-4 w-2/4 rounded text-white bg-[#004e59]">
-      <h1>{greeting}</h1>
-    </main>
+    <div className="mt-10 pt-4 justify-center flex w-screen">
+      <ItemList productos={productos} />
+    </div>
   );
 };
 
