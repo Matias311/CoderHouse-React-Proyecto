@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "../assets/logolibro.png";
 import search from "../assets/search.png";
 import CartWidget from "./CartWidget";
@@ -5,10 +6,12 @@ import CartWidget from "./CartWidget";
 const PreNavBar = () => {
   return (
     <div className="flex justify-between items-center w-full">
-      <img src={logo} alt="logo" className="w-12" />
-      <h1 className="font-medium text-center text-xl text-[#004e59]">
-        BookStore
-      </h1>
+      <Link to={"/"} className="flex items-center">
+        <img src={logo} alt="logo" className="w-12" />
+        <h1 className="font-medium text-center text-xl text-[#004e59]">
+          BookStore
+        </h1>
+      </Link>
       <div className="flex grow justify-center items-center">
         <input
           type="text"

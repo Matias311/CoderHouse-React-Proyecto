@@ -18,7 +18,11 @@ const ItemDetailContainer = () => {
       setproducto(data);
     });
   }, [id]);
-  return <ItemDetail producto={producto} />;
+  return (
+    <div className="flex justify-center w-1/2 items-center">
+      <ItemDetail producto={producto} />
+    </div>
+  );
 };
 
 export default ItemDetailContainer;

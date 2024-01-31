@@ -3,7 +3,7 @@ import PreNavBar from "./PreNavBar";
 
 const Navbar = () => {
   return (
-    <nav className="flex flex-col justify-items-center items-center pt-1">
+    <nav className="flex flex-col justify-items-center items-center pt-1 w-1/2">
       <PreNavBar />
       <div>
         <ul className="flex gap-4 pt-3">
@@ -12,7 +12,7 @@ const Navbar = () => {
           </li>
           <li className="text-sm text-[#004e59]">
             <NavLink to="/category/Arte y Arquitectura">
-              Arte y Arquitectura
+              ARTE Y ARQUITECTURA
             </NavLink>
           </li>
           <li className="text-sm text-[#004e59]">

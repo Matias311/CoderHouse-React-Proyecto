@@ -4,9 +4,10 @@ const Accordion = ({ info, especificaciones }) => {
   const [accordionOpen, setAccordionOpen] = useState(false);
 
   return (
-    <div className="border w-[90%]">
+    <div className="w-full">
+      <hr className="bg-[#004e59] border-0 h-[1px] w-full" />
       <button
-        className="flex justify-between w-full"
+        className="flex justify-between w-full py-1 px-3"
         onClick={() => setAccordionOpen(!accordionOpen)}
       >
         <span>Detalle</span>
@@ -34,6 +35,7 @@ const Accordion = ({ info, especificaciones }) => {
           )}
         </div>
       </div>
+      <hr className="bg-[#004e59] border-0 h-[1px] w-full" />
     </div>
   );
 };
