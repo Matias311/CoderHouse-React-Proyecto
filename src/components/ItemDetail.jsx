@@ -1,7 +1,15 @@
+/* eslint-disable react/prop-types */
+import { useContext } from "react";
 import Accordion from "./Accordion";
 import ItemCount from "./ItemCount";
+import { CartContext } from "../Context/CartContext";
 
 const ItemDetail = ({ producto }) => {
+  const { addItem } = useContext(CartContext);
+  function onAdd(quantity) {
+    addItem(producto, quantity);
+  }
+
   function descuento(producto) {
     if (producto.Descuento > 0) {
       const descuento = (producto.Descuento - 100) / 100;
@@ -45,7 +53,7 @@ const ItemDetail = ({ producto }) => {
           Stock disponible {producto.stock} unidades
         </p>
         {producto.Precio ? descuento(producto) : producto.Precio}
-        <ItemCount stock={producto.stock} />
+        <ItemCount stock={producto.stock} onAdd={onAdd} />
         <Accordion
           info={producto.Reseña}
           especificaciones={producto.Especificaciones}

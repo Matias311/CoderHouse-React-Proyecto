@@ -1,6 +1,10 @@
+/* eslint-disable react/prop-types */
+import { useContext } from "react";
 import { Link } from "react-router-dom";
+import { CartContext } from "../Context/CartContext";
 
 const Item = ({ item }) => {
+  const { addItem } = useContext(CartContext);
   function descuento(item) {
     if (item.Descuento > 0) {
       const descuento = (item.Descuento - 100) / 100;
@@ -22,7 +26,7 @@ const Item = ({ item }) => {
     }
   }
   return (
-    <div className="borde border-black shadow-md flex flex-col justify-center flex-wrap w-[300px] p-3 relative">
+    <div className="borde border-black shadow-md flex flex-col justify-center flex-wrap w-[300px] h-[450px] p-3 relative">
       <Link
         to={"/item/" + item.id}
         className="flex flex-col items-center justify-center"
@@ -39,10 +43,13 @@ const Item = ({ item }) => {
         ) : (
           <h3 className="text-[#004e59]">${item.Precio.toFixed(3)}</h3>
         )}
-        <button className="border py-1 px-3 rounded mt-1 text-[#004e59] border-[#004e59]">
-          Agregar a Carrito
-        </button>
       </Link>
+      <button
+        className="border py-1 px-3 rounded mt-1 text-[#004e59] border-[#004e59]"
+        onClick={() => addItem(item, 1)}
+      >
+        Agregar a Carrito
+      </button>
     </div>
   );
 };

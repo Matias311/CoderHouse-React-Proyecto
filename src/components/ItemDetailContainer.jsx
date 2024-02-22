@@ -1,26 +1,25 @@
 import { useEffect, useState } from "react";
-import arrproductos from "../listaproductos.json";
 import ItemDetail from "./ItemDetail";
 import { useParams } from "react-router-dom";
+import { doc, getDoc, getFirestore } from "firebase/firestore";
+import Loading from "./Loading";
 
 const ItemDetailContainer = () => {
   const [producto, setproducto] = useState([]);
+  const [loading, setLoading] = useState(true);
   const { id } = useParams();
   useEffect(() => {
-    const promesa = new Promise((resolve) => {
-      setTimeout(() => {
-        let producto = arrproductos.find((item) => item.id == parseInt(id));
-        resolve(producto);
-      }),
-        2000;
+    const db = getFirestore();
+    const producto = doc(db, "items", id);
+    getDoc(producto).then((doc) => {
+      setLoading(false);
+      setproducto({ id: doc.id, ...doc.data() });
     });
-    promesa.then((data) => {
-      setproducto(data);
-    });
-  }, [id]);
+  });
+
   return (
     <div className="flex justify-center w-1/2 items-center">
-      <ItemDetail producto={producto} />
+      {loading ? <Loading /> : <ItemDetail producto={producto} />}
     </div>
   );
 };

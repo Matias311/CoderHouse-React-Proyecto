@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "idx": 1,
     "nombre": "100 Contemporary Artist (25 Years)",
     "Autor": "HOLZWARTH, HANZ WERNER",
     "Precio": 53.99,
@@ -21,7 +21,7 @@
     }
   },
   {
-    "id": 2,
+    "idx": 2,
     "nombre": "Actas Del Cuarto Congreso Nacional De Historia De La Construcción",
     "Autor": "HUERTA FERNANDEZ, SANTIAGO",
     "Precio": 41.217,
@@ -42,7 +42,7 @@
     }
   },
   {
-    "id": 3,
+    "idx": 3,
     "nombre": "Alzheimer: La Vida De Un Medico Y La Historia De Una Enfermedad",
     "Autor": "MAURER, K.",
     "Precio": 20.792,
@@ -63,7 +63,7 @@
     }
   },
   {
-    "id": 4,
+    "idx": 4,
     "nombre": "Netter. Atlas De Anatomia Humana Septima Edicion",
     "Autor": "NETTER, FRANK H.",
     "Precio": 162.899,
@@ -83,7 +83,7 @@
     }
   },
   {
-    "id": 5,
+    "idx": 5,
     "nombre": "Principles Of Economics",
     "Autor": "CASE, Karl E",
     "Precio": 69.94,
@@ -104,7 +104,7 @@
     }
   },
   {
-    "id": 6,
+    "idx": 6,
     "nombre": "¿Lider O Killer?",
     "Autor": "CAMARA MENA, RAFAEL",
     "Precio": 19.542,
@@ -125,7 +125,7 @@
     }
   },
   {
-    "id": 7,
+    "idx": 7,
     "nombre": "Terrarios",
     "Autor": "BAUER, ANNA",
     "Precio": 28.8,
@@ -145,7 +145,7 @@
     }
   },
   {
-    "id": 8,
+    "idx": 8,
     "nombre": "Aperturas De Ajedrez",
     "Autor": "Miguel Illescas",
     "Precio": 13.9,
@@ -165,7 +165,7 @@
     }
   },
   {
-    "id": 9,
+    "idx": 9,
     "nombre": "La Vuelta Al Mundo En 80 Bebidas",
     "Autor": "GAUBERT, A.",
     "Precio": 41.0,
@@ -186,7 +186,7 @@
     }
   },
   {
-    "id": 10,
+    "idx": 10,
     "nombre": "Los Sabores De Mi Familia",
     "Autor": "DEMARIA, VIRGINIA",
     "Precio": 31.5,
@@ -207,7 +207,7 @@
     }
   },
   {
-    "id": 11,
+    "idx": 11,
     "nombre": "La Teoria de Kim",
     "Autor": "SANDOVAL, JAY",
     "Precio": 20.9,
@@ -227,7 +227,7 @@
     }
   },
   {
-    "id": 12,
+    "idx": 12,
     "nombre": "Aqui Estamos. Notas para vivir en el planeta tierra",
     "Autor": "JEFFERS, OLIVER",
     "Precio": 17.9,
@@ -248,7 +248,7 @@
     }
   },
   {
-    "id": 13,
+    "idx": 13,
     "nombre": "Hijos Del Mercado. La Maternidad Subrogada En Un Estado Social",
     "Autor": "BALAGUER, CALLEJON, MARIA LUISA",
     "Precio": 35.99,
@@ -269,7 +269,7 @@
     }
   },
   {
-    "id": 14,
+    "idx": 14,
     "nombre": "El Gigante Enterrado",
     "Autor": "ISHIGURO, KAZUO",
     "Precio": 16.0,
@@ -290,7 +290,7 @@
     }
   },
   {
-    "id": 15,
+    "idx": 15,
     "nombre": "Iron Man. Director De Shield 2 Embrujado",
     "Autor": "KNAUF",
     "Precio": 37.99,
@@ -310,7 +310,7 @@
     }
   },
   {
-    "id": 16,
+    "idx": 16,
     "nombre": "Daredevil 4. Actuando para La Camara",
     "Autor": "GALE WINSLADE",
     "Precio": 16.992,
@@ -331,7 +331,7 @@
     }
   },
   {
-    "id": 17,
+    "idx": 17,
     "nombre": "SI A CASI TODO",
     "Autor": "FERRAN CASES",
     "Precio": 19.9,
@@ -351,7 +351,7 @@
     }
   },
   {
-    "id": 18,
+    "idx": 18,
     "nombre": "Juan Radrigan. Teatro Reunido Vol.1",
     "Autor": "JUAN RADRIGAN",
     "Precio": 26.0,
@@ -371,7 +371,7 @@
     }
   },
   {
-    "id": 19,
+    "idx": 19,
     "nombre": "Lo que disperso la Aurora",
     "Autor": "SAFO",
     "Precio": 13.0,
@@ -391,7 +391,7 @@
     }
   },
   {
-    "id": 20,
+    "idx": 20,
     "nombre": "UN ALMA DE CENIZA Y SANGRE",
     "Autor": "ARMENTROUT, JENNIFER",
     "Precio": 28.9,
@@ -411,7 +411,7 @@
     }
   },
   {
-    "id": 21,
+    "idx": 21,
     "nombre": "Alas de Sangre",
     "Autor": "YARROS, REBECCA",
     "Precio": 18.32,
@@ -432,7 +432,7 @@
     }
   },
   {
-    "id": 22,
+    "idx": 22,
     "nombre": "Habitos Atomicos",
     "Autor": "CLEAR, JAMES",
     "Precio": 19.12,
@@ -453,7 +453,7 @@
     }
   },
   {
-    "id": 23,
+    "idx": 23,
     "nombre": "El Psicoanalista en la mira",
     "Autor": "KATZENBACH, JOHN",
     "Precio": 20.0,

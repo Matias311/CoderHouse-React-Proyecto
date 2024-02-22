@@ -1,28 +1,40 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState } from "react";
-import arrproductos from "../listaproductos.json";
 import ItemList from "./ItemList";
 import { useParams } from "react-router-dom";
+import {
+  getFirestore,
+  collection,
+  query,
+  getDocs,
+  where,
+} from "firebase/firestore";
+import Loading from "./Loading";
 
 const ItemListContainer = () => {
   const [productos, setproductos] = useState([]);
+  const [loading, setLoading] = useState(true);
   const { id } = useParams();
+
   useEffect(() => {
-    const promesa = new Promise((resolve) => {
-      setTimeout(() => {
-        resolve(
-          id
-            ? arrproductos.filter((item) => item.Categoria === id)
-            : arrproductos
-        );
-      }, 2000);
-    });
-    promesa.then((data) => {
-      setproductos(data);
+    const db = getFirestore();
+    const itemCollection = collection(db, "items");
+    const q = id
+      ? query(itemCollection, where("Categoria", "==", id))
+      : itemCollection;
+    getDocs(q).then((snapchot) => {
+      setLoading(false);
+      setproductos(
+        snapchot.docs.map((doc) => {
+          return { id: doc.id, ...doc.data() };
+        })
+      );
     });
   }, [id]);
+
   return (
     <div className="mt-10 pt-4 justify-center flex w-screen">
-      <ItemList productos={productos} />
+      {loading ? <Loading /> : <ItemList productos={productos} />}
     </div>
   );
 };

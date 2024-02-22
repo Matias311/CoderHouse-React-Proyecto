@@ -1,8 +1,11 @@
+/* eslint-disable react/prop-types */
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
-const ItemCount = ({ stock }) => {
+const ItemCount = ({ stock, onAdd }) => {
   const [counter, setCounter] = useState(1);
   const [itemstock, setItemStock] = useState(stock);
+  const [itemAdd, setItemAdd] = useState(false);
 
   function incrementar() {
     if (counter < itemstock) {
@@ -16,10 +19,12 @@ const ItemCount = ({ stock }) => {
     }
   }
 
-  function onAdd() {
+  function AddToCart() {
     if (itemstock > 0) {
       setItemStock(itemstock - counter);
       setCounter(1);
+      onAdd(counter);
+      setItemAdd(true);
       console.log("Te quedan " + (itemstock - counter));
     } else {
       setCounter(0);
@@ -54,12 +59,21 @@ const ItemCount = ({ stock }) => {
           </div>
         </div>
       </div>
-      <button
-        className="border py-1 px-5 text-[#004e59] border-[#004e59]"
-        onClick={onAdd}
-      >
-        Agregar al carrito
-      </button>
+      {itemAdd ? (
+        <Link
+          to={"/cart"}
+          className="border py-1 px-5 flex items-center text-[#004e59] border-[#004e59] text-center"
+        >
+          Terminar Compra
+        </Link>
+      ) : (
+        <button
+          className="border py-1 px-5 text-[#004e59] border-[#004e59]"
+          onClick={AddToCart}
+        >
+          Agregar al carrito
+        </button>
+      )}
     </div>
   );
 };
