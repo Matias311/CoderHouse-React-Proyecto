@@ -5,6 +5,7 @@ export const CartContext = createContext();
 // eslint-disable-next-line react/prop-types
 export default function CartContextProvider({ children }) {
   const [cart, setCart] = useState([]);
+  const [search, setSearch] = useState();
   function addItem(item, quantity) {
     if (isInCart(item.id)) {
       let pos = cart.findIndex((i) => i.id === item.id);
@@ -43,6 +44,8 @@ export default function CartContextProvider({ children }) {
         clear,
         CantTotalProductos,
         SumaTotalProductos,
+        search,
+        setSearch,
       }}
     >
       {children}

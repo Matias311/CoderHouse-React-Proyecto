@@ -1,9 +1,12 @@
 import { Link } from "react-router-dom";
 import logo from "../assets/logolibro.png";
-import search from "../assets/search.png";
 import CartWidget from "./CartWidget";
+import { useContext } from "react";
+import { CartContext } from "../Context/CartContext";
 
 const PreNavBar = () => {
+  const { setSearch } = useContext(CartContext);
+
   return (
     <div className="flex justify-between items-center w-full">
       <Link to={"/"} className="flex items-center">
@@ -17,14 +20,8 @@ const PreNavBar = () => {
           type="text"
           placeholder="Buscalo, Compralo, Leelo"
           className="border pl-5 w-2/4 h-[30px] focus:outline-none border-[#004e59] placeholder-[#004e59] text-sm"
+          onInput={(e) => setSearch(e.target.value)}
         />
-        <div className=" bg-[#004e59] flex justify-center w-[30px] h-[30px] cursor-pointer">
-          <img
-            src={search}
-            alt="lupa"
-            className="w-[20px] h-[20px] self-center"
-          />
-        </div>
       </div>
       <CartWidget />
     </div>

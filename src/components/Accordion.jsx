@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useState } from "react";
 
 const Accordion = ({ info, especificaciones }) => {
@@ -21,15 +22,18 @@ const Accordion = ({ info, especificaciones }) => {
         }`}
       >
         <div className="overflow-hidden">
-          <p>{info}</p>
+          <p className="text-pretty">{info}</p>
           {especificaciones ? (
-            <ol>
-              <li>{especificaciones.Categoria}</li>
-              <li>{especificaciones.SubCategoria}</li>
-              <li>{especificaciones.idioma}</li>
-              <li>{especificaciones.Formato}</li>
-              <li>{especificaciones.Paginas}</li>
-            </ol>
+            <div className="py-2">
+              <span className="font-bold">Especificaciones: </span>
+              <ol>
+                <li>{especificaciones.Categoria}</li>
+                <li>{especificaciones.SubCategoria}</li>
+                <li>{especificaciones.idioma}</li>
+                <li>{especificaciones.Formato}</li>
+                <li>{especificaciones.Paginas}</li>
+              </ol>
+            </div>
           ) : (
             <span>no se encontraron</span>
           )}

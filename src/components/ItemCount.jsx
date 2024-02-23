@@ -25,7 +25,6 @@ const ItemCount = ({ stock, onAdd }) => {
       setCounter(1);
       onAdd(counter);
       setItemAdd(true);
-      console.log("Te quedan " + (itemstock - counter));
     } else {
       setCounter(0);
       console.log("No puedes comprar esto, no hay stock disponibles");

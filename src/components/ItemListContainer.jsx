@@ -1,5 +1,5 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import ItemList from "./ItemList";
 import { useParams } from "react-router-dom";
 import {
@@ -10,18 +10,25 @@ import {
   where,
 } from "firebase/firestore";
 import Loading from "./Loading";
+import { CartContext } from "../Context/CartContext";
 
 const ItemListContainer = () => {
   const [productos, setproductos] = useState([]);
   const [loading, setLoading] = useState(true);
   const { id } = useParams();
+  const { search } = useContext(CartContext);
 
   useEffect(() => {
     const db = getFirestore();
     const itemCollection = collection(db, "items");
-    const q = id
-      ? query(itemCollection, where("Categoria", "==", id))
-      : itemCollection;
+    let q;
+    if (id) {
+      q = query(itemCollection, where("Categoria", "==", id));
+    } else if (search) {
+      q = query(itemCollection, where("nombre", ">=", search));
+    } else {
+      q = itemCollection;
+    }
     getDocs(q).then((snapchot) => {
       setLoading(false);
       setproductos(
@@ -30,7 +37,7 @@ const ItemListContainer = () => {
         })
       );
     });
-  }, [id]);
+  }, [id, search]);
 
   return (
     <div className="mt-10 pt-4 justify-center flex w-screen">
